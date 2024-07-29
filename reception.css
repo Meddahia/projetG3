@@ -1,0 +1,91 @@
+.nav{
+    background-color: #131313;
+}
+
+.navbarre1{
+    display : flex;
+    flex-direction : row;
+    justify-content: space-around;
+    height: 40px;
+    vertical-align: middle;
+    
+}
+
+.titre{
+    font-family: Arial, sans-serif;
+    color: #FF385C;
+    margin-left: -35px;
+    margin-top: 3px;
+}
+
+.texteblanc1{
+    color: white;
+    margin-left: -35px;
+    margin-bottom: 10px;
+}
+.texteblanc{
+    color: white;
+}
+
+.logo{
+    width: 50px;
+}
+
+.barrenav{
+    width: 400px;
+}
+
+.loupe{
+    width: 20px;
+}
+
+.france{
+    width: 20px;
+    margin-top: 15px;
+}
+
+.panier{
+    width: 27px;
+}
+
+.buttonpanier{
+    display : flex;
+    background-color: #969696;
+}
+
+.button{
+    background-color: #969696;
+}
+
+.ligne1{
+    display : flex;
+    flex-direction : row;
+    justify-content: space-around;
+    background-color: #575757;
+    
+    
+}
+
+.imageproduit {
+    width: 150px;
+}
+
+.border{
+    border: 1px solid black; 
+    border-radius: 10px; 
+    padding: 15px; 
+    margin: 20px; 
+    width: 45%;
+    background-color: #ffffff;
+}
+
+
+.produit {
+    margin-bottom: 10px; 
+    list-style-type: none;
+}
+
+.fond {
+    background-color: #606060;
+}
+
